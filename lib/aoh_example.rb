@@ -14,7 +14,7 @@ def assembled_aoh
     { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
 end
-assembled_aoh
+assembled_aoh.sort
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
