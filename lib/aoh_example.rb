@@ -15,6 +15,7 @@ def literal_aoh
   # held in the constants
   [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
 end
+sort(literal_aoh)
 
 def aoh_lookup(aoh, row, key)
 end
